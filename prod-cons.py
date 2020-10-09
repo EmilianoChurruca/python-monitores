@@ -43,7 +43,3 @@ cons1.start()
 
 # El productor
 productor(items_monit)
-
-
-
-        
